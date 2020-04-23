@@ -1,0 +1,40 @@
+#wrapper {
+  width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
+
+#header {
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: lavenderblush;
+}
+
+h1 {
+  font-family: 'M PLUS 1p', sans-serif;
+  text-align: center;
+}
+
+#container {
+  display: flex;
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#big-photo {
+  margin-top: 9px;
+  margin-bottom: 15px;
+}
+
+#mini-photos {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+#mini-photos p{
+  font-size: small;
+  text-align: center;
+}
